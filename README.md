@@ -1,2 +1,2 @@
-# Regression-Projects
-This repo contains various machine learning regression projects in Python 
+# Regression-Projects 
+This repo contains various Machine Learning Regression Projects. Language used: Python
